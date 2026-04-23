@@ -2,7 +2,7 @@
 
 Welcome to the official repository hub for the **Ringer UFRJ Group**. We are a research collective from the **Federal University of Rio de Janeiro (UFRJ)**, working in collaboration with **CERN** and the **Signal Processing Laboratory (LPS)**.
 
-Our mission is to develop and maintain high-performance algorithms and frameworks for the **ATLAS Experiment**, specializing in **Fast Egamma Trigger Emulation** and **Machine Learning** applications for high-energy physics. 🌌
+Our mission is to develop and maintain high-performance algorithms and frameworks for the **ATLAS Experiment**, specializing in **Fast Egamma Trigger Emulation** and **Machine Learning** applications for high-energy physics.
 
 
 ## 🌍 Join the Collaboration
